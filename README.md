@@ -13,6 +13,11 @@ If you are interested, please cite
   pages={1-14},
   doi={10.1109/TCST.2023.3240286}}
 ```
+## Abstract
+In a global positioning system (GPS)-denied environment, unmanned aerial vehicles (UAVs) rely on local sensing-based formation maneuvering approaches for collective motion. To improve mission efficiency by reducing the total sensing requirements on all UAVs, this article proposes a leader–follower formation maneuvering framework with two leaders, where the followers will track the two leaders and maintain a desired angle-constrained formation with respect to the leaders using direction-only measurements, i.e., removing the need for inter-UAV distance measurements for the followers. To enable the UAV formation to maneuver in translation, rotation, and scaling simultaneously, the desired formation shape is specified by a set of interior angle constraints. By assigning each UAV’s yaw angle and position as the four controllable variables, an estimation-based attitude control algorithm is designed. For the UAVs’ position control, the designed formation maneuvering algorithm consists of a velocity tracking part and a formation shape control part that enables the first leader UAV to control the translational maneuvering, the second leader UAV to control the rotational and scaling maneuvering, and all the follower UAVs to maintain the formation shape. Simulations and experiments on UAVs’ formation maneuvering are conducted to illustrate the effectiveness of the proposed approach.
+
+
+
 
 <div style="text-align: center">
 <img src="scalingman.jpeg" style="width:80%; height:80%" >
