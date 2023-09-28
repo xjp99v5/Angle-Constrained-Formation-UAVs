@@ -22,17 +22,17 @@ In a global positioning system (GPS)-denied environment, unmanned aerial vehicle
 ## Demo
 ### Translational Maneuvering (Env 1)
 <div style="text-align: center">
-<img src="assets/tcst1.mp4" width="700"  >
+<video src="assets/tcst1.mp4" width="700"  >
 </div>
 
 ### Rotational Maneuvering (Env 2)
 <div style="text-align: center">
-<img src="assets/tcst2.mp4" width="700"  >
+<video src="assets/tcst2.mp4" width="700"  >
 </div>
 
 ### Scaling Maneuvering (Env 3)
 <div style="text-align: center">
-<img src="assets/tcst3.mp4" width="700"  >
+<video src="assets/tcst3.mp4" width="700"  >
 </div>
 
 
