@@ -36,6 +36,6 @@ In a global positioning system (GPS)-denied environment, unmanned aerial vehicle
 </div>
 
 
-The video refers to [https://www.bilibili.com/video/BV1pA411k7Xt/?vd_source=70071848c9820cf0bdf1c33437ab4486].
+The complete video refers to [https://www.bilibili.com/video/BV1pA411k7Xt/?vd_source=70071848c9820cf0bdf1c33437ab4486].
 
 
