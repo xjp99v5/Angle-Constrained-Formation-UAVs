@@ -10,9 +10,9 @@ If you are interested, please cite
   journal={IEEE Transactions on Control Systems Technology}, 
   title={Angle-Constrained Formation Maneuvering of Unmanned Aerial Vehicles}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-14},
+  volume={31},
+  number={4},
+  pages={1733-1746},
   doi={10.1109/TCST.2023.3240286}}
 ```
 ## Abstract
@@ -36,6 +36,6 @@ In a global positioning system (GPS)-denied environment, unmanned aerial vehicle
 </div>
 
 
-The complete video refers to [https://www.bilibili.com/video/BV1pA411k7Xt/?vd_source=70071848c9820cf0bdf1c33437ab4486].
+**The complete video refers to [https://www.bilibili.com/video/BV1pA411k7Xt/?vd_source=70071848c9820cf0bdf1c33437ab4486].**
 
 
